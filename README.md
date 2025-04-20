@@ -123,3 +123,10 @@ Performance metrics across different models:
    - Driver drowsiness detection
    - Workplace safety monitoring
 
+## Contributors
+
+- Vo Minh Thinh
+- Nguyen Truong Thinh
+- Tran Binh Phuong
+- Nguyen Hong Son
+
